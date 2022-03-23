@@ -14,3 +14,4 @@ function chekpointalgo(n) {
       return(A)
     }
     console.log(chekpointalgo('Bonjour les amis.'))
+    // apdate
